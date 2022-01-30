@@ -1,0 +1,1 @@
+.\racchetta.o: racchetta.c

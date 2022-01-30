@@ -1,0 +1,1 @@
+"This library only supports boards with ESP32 processor."
